@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2.6458809mm"
+   height="2.35186mm"
+   viewBox="0 0 2.645881 2.35186"
+   version="1.1"
+   id="svg91648"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icono_avion.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview91650"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8343509"
+     inkscape:cx="-53.152318"
+     inkscape:cy="-29.438207"
+     inkscape:window-width="1805"
+     inkscape:window-height="1008"
+     inkscape:window-x="197"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs91645" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-136.33665,-178.48505)">
+    <path
+       d="m 138.5416,179.36698 h -0.52499 l -0.48277,-0.84493 a 0.07356003,0.07356003 0 0 0 -0.0639,-0.037 h -0.30087 c -0.0488,0 -0.0841,0.0467 -0.0707,0.0937 l 0.22522,0.78829 h -0.47249 l -0.19843,-0.26458 c -0.0139,-0.0185 -0.0357,-0.0294 -0.0588,-0.0294 h -0.18369 c -0.0478,0 -0.0829,0.0449 -0.0713,0.0913 l 0.14475,0.49664 -0.14475,0.49665 c -0.0116,0.0464 0.0235,0.0913 0.0713,0.0913 h 0.18369 c 0.0231,0 0.0449,-0.0109 0.0588,-0.0294 l 0.19843,-0.26459 h 0.47249 l -0.22522,0.78825 c -0.0134,0.0469 0.0219,0.0937 0.0707,0.0937 h 0.30087 c 0.0264,0 0.0507,-0.0142 0.0638,-0.037 l 0.48282,-0.84492 h 0.52499 c 0.16238,0 0.44098,-0.1316 0.44098,-0.29398 0,-0.16238 -0.2786,-0.29399 -0.44098,-0.29399 z"
+       id="path16577-6-9-3-4"
+       style="fill:#0c2d41;fill-opacity:1;stroke-width:0.00459347" />
+  </g>
+</svg>

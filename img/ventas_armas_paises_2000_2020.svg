@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svglite"
+   width="850.26666"
+   height="1209.7648"
+   viewBox="0 0 637.70001 907.32357"
+   version="1.1"
+   id="svg9372"
+   sodipodi:docname="ventas_armas_paises_2000_2020.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9374"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="pt"
+     showgrid="false"
+     showborder="false"
+     fit-margin-top="0.1"
+     fit-margin-left="0.1"
+     fit-margin-right="0.1"
+     fit-margin-bottom="0.1"
+     lock-margins="true"
+     inkscape:zoom="0.75833333"
+     inkscape:cx="336.92308"
+     inkscape:cy="410.10989"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9372"
+     units="px" />
+  <defs
+     id="defs9156">
+    <style
+       type="text/css"
+       id="style9154"><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs9163">
+    <clipPath
+       id="cpMC4wMHwxMDA4LjAwfDAuMDB8MTQ0MC4wMA==">
+      <rect
+         x="0"
+         y="0"
+         width="1008"
+         height="1440"
+         id="rect9160" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMC4wMHwxMDA4LjAwfDAuMDB8MTQ0MC4wMA==)"
+     id="g9165"
+     transform="translate(0.1,0.1)" />
+  <defs
+     id="defs9170">
+    <clipPath
+       id="cpMTkyLjk0fDEwMDguMDB8MTA4LjQyfDEzNjAuMDI=">
+      <rect
+         x="192.94"
+         y="108.42"
+         width="815.06"
+         height="1251.61"
+         id="rect9167" />
+    </clipPath>
+  </defs>
+  <rect
+     width="63.244045%"
+     height="63.244045%"
+     style="fill:none;stroke:none;stroke-width:0.632441"
+     id="rect9158"
+     x="0.1"
+     y="0.1" />
+  <polyline
+     points="322.61,1360.02 322.61,108.42 "
+     style="stroke:#ebebeb;stroke-width:0.53;stroke-linecap:butt"
+     id="polyline9172"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="507.85,1360.02 507.85,108.42 "
+     style="stroke:#ebebeb;stroke-width:0.53;stroke-linecap:butt"
+     id="polyline9174"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="693.09,1360.02 693.09,108.42 "
+     style="stroke:#ebebeb;stroke-width:0.53;stroke-linecap:butt"
+     id="polyline9176"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="878.33,1360.02 878.33,108.42 "
+     style="stroke:#ebebeb;stroke-width:0.53;stroke-linecap:butt"
+     id="polyline9178"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1322.85 1008.00,1322.85 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9180"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1260.89 1008.00,1260.89 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9182"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1198.93 1008.00,1198.93 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9184"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1136.96 1008.00,1136.96 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9186"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1075.00 1008.00,1075.00 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9188"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,1013.04 1008.00,1013.04 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9190"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,951.08 1008.00,951.08 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9192"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,889.12 1008.00,889.12 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9194"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,827.16 1008.00,827.16 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9196"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,765.20 1008.00,765.20 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9198"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,703.24 1008.00,703.24 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9200"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,641.28 1008.00,641.28 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9202"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,579.32 1008.00,579.32 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9204"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,517.36 1008.00,517.36 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9206"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,455.40 1008.00,455.40 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9208"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,393.44 1008.00,393.44 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9210"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,331.48 1008.00,331.48 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9212"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,269.51 1008.00,269.51 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9214"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,207.55 1008.00,207.55 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9216"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="192.94,145.59 1008.00,145.59 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9218"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="229.99,1360.02 229.99,108.42 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9220"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="415.23,1360.02 415.23,108.42 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9222"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="600.47,1360.02 600.47,108.42 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9224"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="785.71,1360.02 785.71,108.42 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9226"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <polyline
+     points="970.95,1360.02 970.95,108.42 "
+     style="stroke:#ebebeb;stroke-width:1.07;stroke-linecap:butt"
+     id="polyline9228"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)" />
+  <rect
+     x="145.55499"
+     y="76.505135"
+     width="426.26486"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9230" />
+  <rect
+     x="145.55499"
+     y="115.69115"
+     width="300.90253"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9232" />
+  <rect
+     x="145.55499"
+     y="154.87715"
+     width="103.28386"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9234" />
+  <rect
+     x="145.55499"
+     y="194.06317"
+     width="86.404015"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9236" />
+  <rect
+     x="145.55499"
+     y="233.24918"
+     width="56.616066"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9238" />
+  <rect
+     x="145.55499"
+     y="272.43518"
+     width="55.718002"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9240" />
+  <rect
+     x="145.55499"
+     y="311.62122"
+     width="32.532738"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9242" />
+  <rect
+     x="145.55499"
+     y="350.80725"
+     width="30.660713"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9244" />
+  <rect
+     x="145.55499"
+     y="389.99319"
+     width="26.701637"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9246" />
+  <rect
+     x="145.55499"
+     y="429.18561"
+     width="25.847839"
+     height="31.350075"
+     style="fill:#f03351;fill-opacity:1;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9248" />
+  <rect
+     x="145.55499"
+     y="468.37155"
+     width="22.255581"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9250" />
+  <rect
+     x="145.55499"
+     y="507.55759"
+     width="19.713169"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9252" />
+  <rect
+     x="145.55499"
+     y="546.74359"
+     width="16.538319"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9254" />
+  <rect
+     x="145.55499"
+     y="585.92963"
+     width="13.369792"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9256" />
+  <rect
+     x="145.55499"
+     y="625.11566"
+     width="10.353051"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9258" />
+  <rect
+     x="145.55499"
+     y="664.30164"
+     width="6.640625"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9260" />
+  <rect
+     x="145.55499"
+     y="703.48767"
+     width="5.4073663"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9262" />
+  <rect
+     x="145.55499"
+     y="742.67365"
+     width="5.135417"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9264" />
+  <rect
+     x="145.55499"
+     y="781.85962"
+     width="4.8191967"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9266" />
+  <rect
+     x="145.55499"
+     y="821.04565"
+     width="4.4334078"
+     height="31.350075"
+     style="fill:#0c2d41;stroke:none;stroke-width:0.676711;stroke-linecap:square;stroke-linejoin:miter"
+     id="rect9268" />
+  <text
+     x="921.07001"
+     y="150.48"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="56.939999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9270"
+     transform="matrix(0.66377632,0,0,0.63244048,-28.820742,0.1)">181.925</text>
+  <text
+     x="722.84003"
+     y="212.44"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="56.939999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9272"
+     transform="matrix(0.66250777,0,0,0.63244048,-21.685428,0.1)">128.421</text>
+  <text
+     x="407.53"
+     y="274.39999"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9274"
+     transform="matrix(0.68596044,0,0,0.63244048,-21.722571,0.1)">44.081</text>
+  <text
+     x="380.84"
+     y="336.35999"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9276"
+     transform="matrix(0.68355337,0,0,0.63244048,-19.399133,0.1)">36.875</text>
+  <text
+     x="333.73999"
+     y="398.32001"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9278"
+     transform="matrix(0.67777627,0,0,0.63244048,-15.051612,0.1)">24.163</text>
+  <text
+     x="332.32001"
+     y="460.28"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9280"
+     transform="matrix(0.69483402,0,0,0.63244048,-20.663859,0.1)">23.781</text>
+  <text
+     x="295.66"
+     y="522.23999"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9282"
+     transform="matrix(0.69634801,0,0,0.63244048,-18.902865,0.1)">13.885</text>
+  <text
+     x="292.70001"
+     y="584.21002"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="47.450001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9284"
+     transform="matrix(0.68182358,0,0,0.63244048,-14.437858,0.1)">13.085</text>
+  <text
+     x="286.06"
+     y="646.16998"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="46.18"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9286"
+     transform="matrix(0.68335156,0,0,0.63244048,-14.549405,0.1)">11.396</text>
+  <text
+     x="284.70999"
+     y="708.13"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="46.18"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9288"
+     transform="matrix(0.69854758,0,0,0.63244048,-18.832739,0.1)">11.031</text>
+  <text
+     x="276.57001"
+     y="770.09003"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9290"
+     transform="matrix(0.71469841,0,0,0.63244048,-22.701861,0.1)">9.499</text>
+  <text
+     x="272.54001"
+     y="832.04999"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9292"
+     transform="matrix(0.70778905,0,0,0.63244048,-20.481831,0.1)">8.412</text>
+  <text
+     x="267.51999"
+     y="894.01001"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9294"
+     transform="matrix(0.71489826,0,0,0.63244048,-22.018356,0.1)">7.058</text>
+  <text
+     x="262.51001"
+     y="955.96997"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9296"
+     transform="matrix(0.70385369,0,0,0.63244048,-18.691642,0.1)">5.705</text>
+  <text
+     x="257.73999"
+     y="1017.93"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9298"
+     transform="matrix(0.69959224,0,0,0.63244048,-17.220635,0.1)">4.418</text>
+  <text
+     x="251.87"
+     y="1079.89"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9300"
+     transform="matrix(0.70733129,0,0,0.63244048,-18.797054,0.1)">2.834</text>
+  <text
+     x="249.92999"
+     y="1141.85"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9302"
+     transform="matrix(0.7249946,0,0,0.63244048,-23.074456,0.1)">2.309</text>
+  <text
+     x="249.49001"
+     y="1203.8101"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9304"
+     transform="matrix(0.7003219,0,0,0.63244048,-16.866831,0.1)">2.192</text>
+  <text
+     x="248.99001"
+     y="1265.77"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9306"
+     transform="matrix(0.70013065,0,0,0.63244048,-16.785183,0.1)">2.056</text>
+  <text
+     x="248.38"
+     y="1327.73"
+     style="font-size:17.07px;font-family:Arial"
+     textLength="37.959999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9308"
+     transform="matrix(0.70629669,0,0,0.63244048,-18.366396,0.1)">1.892</text>
+  <text
+     x="188.00999"
+     y="1330.72"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="85.620003"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9312"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Australia</text>
+  <text
+     x="188.00999"
+     y="1268.76"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="92.970001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9314"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Sudáfrica</text>
+  <text
+     x="188.00999"
+     y="1206.8"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="84.419998"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9316"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Noruega</text>
+  <text
+     x="188.00999"
+     y="1144.84"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="103.96"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9318"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Bielorrusia</text>
+  <text
+     x="188.00999"
+     y="1082.88"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="75.029999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9320"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Turquía</text>
+  <text
+     x="188.00999"
+     y="1020.92"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="77.089996"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9322"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Canadá</text>
+  <text
+     x="188.00999"
+     y="958.96002"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="55.040001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9324"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Suiza</text>
+  <text
+     x="188.00999"
+     y="897"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="135.78"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9326"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Corea del Sur</text>
+  <text
+     x="188.00999"
+     y="835.03998"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="67.279999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9328"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Suecia</text>
+  <text
+     x="188.00999"
+     y="773.08002"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="75.830002"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9330"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Ucrania</text>
+  <text
+     x="188.00999"
+     y="711.12"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="74.639999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9332"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">España</text>
+  <text
+     x="188.00999"
+     y="649.15997"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="128.42999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9334"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Países Bajos</text>
+  <text
+     x="188.00999"
+     y="587.20001"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="53.810001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9336"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Israel</text>
+  <text
+     x="188.00999"
+     y="525.22998"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="46.48"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9338"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Italia</text>
+  <text
+     x="188.00999"
+     y="463.26999"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="57.5"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9340"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">China</text>
+  <text
+     x="188.00999"
+     y="401.31"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="121.11"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9342"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Reino Unido</text>
+  <text
+     x="188.00999"
+     y="339.35001"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="91.739998"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9344"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Alemania</text>
+  <text
+     x="188.00999"
+     y="277.39001"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="73.379997"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9346"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Francia</text>
+  <text
+     x="188.00999"
+     y="215.42999"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="56.259998"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9348"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Rusia</text>
+  <text
+     x="188.00999"
+     y="153.47"
+     text-anchor="end"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="154.12"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9350"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Estados Unidos</text>
+  <text
+     x="229.99001"
+     y="1380.71"
+     text-anchor="middle"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="12.24"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9352"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">0</text>
+  <text
+     x="415.23001"
+     y="1380.71"
+     text-anchor="middle"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="61.200001"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9354"
+     transform="matrix(0.67878856,0,0,0.63244048,-17.765364,0.1)">50.000</text>
+  <text
+     x="600.46997"
+     y="1380.71"
+     text-anchor="middle"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="73.440002"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9356"
+     transform="matrix(0.6604366,0,0,0.63244048,-15.744744,0.1)">100.000</text>
+  <text
+     x="785.71002"
+     y="1380.71"
+     text-anchor="middle"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="73.440002"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9358"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">150.000</text>
+  <text
+     x="970.95001"
+     y="1380.71"
+     text-anchor="middle"
+     style="font-size:22px;font-family:Arial;fill:#4d4d4d"
+     textLength="73.440002"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9360"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">200.000</text>
+  <text
+     x="600.46997"
+     y="1407.77"
+     text-anchor="middle"
+     style="font-weight:bold;font-size:27.5px;font-family:Arial"
+     textLength="172.66"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9362"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Millones de €</text>
+  <g
+     id="g64778"
+     transform="translate(-6.8923573)">
+    <text
+       x="192.94"
+       y="74.809998"
+       style="font-size:25px;font-family:Arial"
+       textLength="650.44"
+       lengthAdjust="spacingAndGlyphs"
+       id="text9364"
+       transform="matrix(0.63244048,0,0,0.63244048,-92.867029,1.089011)">Top 20 de ventas desde el año 2000. En millones de euros</text>
+    <text
+       x="192.94"
+       y="34.310001"
+       style="font-weight:bold;font-size:40px;font-family:Arial"
+       textLength="711.45001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text9366"
+       transform="matrix(0.63244048,0,0,0.63244048,-94.33718,2.078022)">España, décimo exportador de armas</text>
+  </g>
+  <text
+     x="1008"
+     y="1430.85"
+     text-anchor="end"
+     style="font-size:16.5px;font-family:Arial"
+     textLength="254.73"
+     lengthAdjust="spacingAndGlyphs"
+     id="text9368"
+     transform="matrix(0.63244048,0,0,0.63244048,0.1,0.1)">Autor: Darío Ojeda | Fuente: SIPRI</text>
+</svg>

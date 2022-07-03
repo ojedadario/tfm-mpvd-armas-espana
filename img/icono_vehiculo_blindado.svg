@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10.001385mm"
+   height="8.8895502mm"
+   viewBox="0 0 10.001385 8.8895502"
+   version="1.1"
+   id="svg92075"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icono_vehiculo_blindado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview92077"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.64854097"
+     inkscape:cx="-69.386519"
+     inkscape:cy="-57.051138"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs92072" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-123.28162,-163.798)">
+    <path
+       d="m 132.94962,167.27652 h -0.4501 l -1.15754,-3.0195 a 0.66744641,0.77380074 0 0 0 -0.6093,-0.45902 h -4.90074 a 0.66741767,0.77376741 0 0 0 -0.6093,0.45907 l -1.15754,3.01945 h -0.4501 a 0.33338216,0.386505 0 0 0 0,0.77301 h 0.33338 v 3.86501 a 0.66752308,0.77388966 0 0 0 0.66675,0.77301 h 1.00014 a 0.66752308,0.77388966 0 0 0 0.66676,-0.77301 v -0.773 h 4.00056 v 0.773 a 0.66752308,0.77388966 0 0 0 0.66676,0.77301 h 1.00013 a 0.66752308,0.77388966 0 0 0 0.66676,-0.77301 v -3.86501 h 0.33338 a 0.33338216,0.386505 0 0 0 0,-0.77301 z m -6.66759,2.31901 h -0.66676 a 0.33338067,0.38650326 0 0 1 0,-0.773 h 0.66676 a 0.33338067,0.38650326 0 0 1 0,0.773 z m 4.66732,0 h -0.66676 a 0.33338067,0.38650326 0 0 1 0,-0.773 h 0.66676 a 0.33338067,0.38650326 0 0 1 0,0.773 z"
+       id="path17545-8"
+       style="fill:#4e8bb9;fill-opacity:1;stroke-width:0.04487" />
+  </g>
+</svg>

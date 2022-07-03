@@ -1,0 +1,174 @@
+---
+title: "TFM - Máster de Periodismo y Visualización de Datos"
+author: "Darío Ojeda"
+date: '2022-06-30'
+output: html_document
+---
+
+## Exportaciones de armas de España
+
+Este notebook contiene el código utilizado para la elaboración de tres de los cinco gráficos del proyecto **Más de 3.000 millones al año: el negocio de las armas españolas**. El orden es el mismo que el de la web.
+
+
+```{r}
+
+# cargo los paquetes
+
+library(tidyverse)
+library(ggstream)
+library(forcats)
+library(svglite)
+library(extrafont)
+
+```
+
+### Nº1: gráfico de columnas
+
+Gráfico de columnas que muestra la evolución, desde el año 2005 al 2021, del volumen (en millones de euros) del material de defensa exportado a Arabia Saudí. Los datos están extraídos del Ministerio de Comercio, Industria y Turismo.
+
+```{r}
+
+# lectura y manipulación de los datos
+
+exportaciones_arabia <- read_csv("armas_arabia_saudi_05_21.csv")
+
+
+```
+
+```{r}
+
+# ploteo del gráfico
+
+p1 <- ggplot(exportaciones_arabia, aes(x = year, y = millones)) +
+  geom_col(fill ='#0C2D41', width = 0.8) +
+  ylim(0,600) +
+  labs(title = "2.000 millones en armas a Arabia Saudí",
+       caption = "Autor: Darío Ojeda | Fuente: Ministerio de Industria, Comercio y Turismo",
+       subtitle = "Volumen anual de exportaciones de material de defensa",
+       x = "Año",
+       y = "Millones de €") +
+  theme_minimal() +
+  theme(plot.margin = margin(0.2, 0.2, 0.2, 0.2, "cm"),
+        plot.title = element_text(size = 40, face = "bold", margin = margin(t = 0, r = 0, b = 0.5, l = 0, "cm")),
+        plot.subtitle = element_text(size = 25, margin = margin(t = 0, r = 0, b = 1, l = 0, "cm")),
+        plot.caption = element_text(size = rel(1.5)),
+        axis.title = element_text(size = rel(2.5), face = "bold"),
+        axis.text = element_text(size = rel(2))) +
+  geom_text(aes(y = millones, ymax = millones, label = millones), 
+            position = position_dodge(width = 0.9), size=4, vjust=-1, hjust=0.5 ,col="black")
+  
+
+ggsave(file="exportaciones_arabia_saudi.svg", plot = p1, width=12, height=8)
+
+```
+
+### Nº2: gráfico de barras
+
+Gráfico de barras el ránking de los 20 países que más armas exportaron desde el año 2000 al 2020 (en millones de euros. Los datos están extraídos del Stockholm International Peace Research Institute.
+
+```{r}
+# lectura y manipulación de los datos
+
+ranking_paises <- read_csv("ranking_armas_int_00_21.csv")
+
+ranking_paises <- ranking_paises %>%
+  mutate(pais = fct_reorder(pais, exportaciones))
+
+
+```
+
+```{r}
+
+# ploteo del gráfico
+
+p2 <- ggplot(ranking_paises, aes(x = pais, y = exportaciones)) +
+  geom_col(fill ='#0C2D41', width = 0.8) +
+  ylim(0,200000) +
+  coord_flip() +
+  labs(title = "España, décimo exportador de armas",
+       caption = "Autor: Darío Ojeda | Fuente: SIPRI",
+       subtitle = "Top 20 de ventas desde el año 2000. En millones de euros",
+       x = "",
+       y = "Millones de €") + 
+  theme_minimal() +
+    theme(plot.margin = margin(0.2, 0, 0.2, 0.2, "cm"),
+        plot.title = element_text(size = 40, face = "bold", margin = margin(t = 0, r = 0, b = 0.5, l = 0, "cm")),
+        plot.subtitle = element_text(size = 25, margin = margin(t = 0, r = 0, b = 1, l = 0, "cm")),
+        plot.caption = element_text(size = rel(1.5)),
+        axis.title = element_text(size = rel(2.5), face = "bold"),
+        axis.text = element_text(size = rel(2))) +
+  geom_text(aes(y = exportaciones, ymax = exportaciones, label = exportaciones), 
+            position = position_dodge(width = 0.9), size=6, vjust=0.4, hjust=-0.3 ,col="black")
+
+
+
+ggsave(file="ranking_armas_paises.svg", plot = p2, width=14, height=20)
+
+# ggsave("barras_paises.png")
+
+```
+
+### Nº3: gráfico de áreas
+
+Gráfico de áreas que muestra la evolución, desde el año 1960 al 2021, del volumen (en millones de euros) de los principales tipos de armas exportadas por España. Los datos están extraídos del Stockholm International Peace Research Institute.
+
+```{r}
+
+# lectura y manipulación de los datos
+
+exportaciones_espana <- read_csv("exportaciones_armas_tipo_espana_1950_2021.csv")
+
+exportaciones_espana <- exportaciones_espana %>%
+  filter(tipo_arma != "Total") %>%
+  select(-"...1")
+
+exportaciones_espana[is.na(exportaciones_espana)] <- 0
+
+
+exportaciones_espana <- exportaciones_espana %>%
+  pivot_longer(!tipo_arma, names_to = "year", values_to = "cantidad") %>%
+  filter(year != "Total") %>%
+  select(year, tipo_arma, cantidad)
+  
+  
+exportaciones_espana <- exportaciones_espana %>%
+  mutate(year = as.double(year)) %>%
+  filter(tipo_arma != "Artillery" & tipo_arma != "Other")
+  
+
+```
+
+```{r}
+
+# ploteo del gráfico
+
+colores <- c("#0C2D41", "#008383", "#90D779", "#F9F871")
+
+p3 <- ggplot(exportaciones_espana, aes(x = year, y = cantidad, fill = tipo_arma)) +
+  geom_area() +
+  scale_fill_manual(values = colores) +
+  guides(fill = guide_legend(title = "")) +
+  labs(title = "España cada vez vende más armas",
+       caption = "Autor: Darío Ojeda | Fuente: SIPRI",
+       subtitle = "Evolución anual de las ventas de los principales tipos de armas",
+       x = "Año",
+       y = "Millones de €") +
+  theme_minimal() +
+  theme(plot.margin = margin(0.2, 0.2, 0.2, 0.2, "cm"),
+        legend.position = "top",
+        legend.justification = "center",
+        plot.title = element_text(size = 40, face = "bold", margin = margin(t = 0, r = 0, b = 0.5, l = 0, "cm")),
+        plot.subtitle = element_text(size = 25, margin = margin(t = 0, r = 0, b = 1, l = 0, "cm")),
+        plot.caption = element_text(size = rel(1.5)),
+        axis.title = element_text(size = rel(2.5), face = "bold"),
+        axis.text = element_text(size = rel(2)),
+        legend.key.size = unit(1, 'cm'),
+        legend.text = element_text(size=10),
+        legend.margin = margin(r=2))
+
+
+ggsave(file="venta_armas_espana_tipo_1960_2021.svg", plot = p3, width=14, height=10)
+
+
+```
+

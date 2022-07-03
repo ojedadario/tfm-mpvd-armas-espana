@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
+
+h1 {
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: black;   
+    font-size: 3em;
+    padding: 50px;
+}
+
+.portada h2{
+    color: black;
+    font-family: 'Roboto';
+    font-size: 1.5em;
+    padding: 50px;
+}
+
+p {
+    color: black;
+    font-family: 'Roboto';
+}
+
+body{
+    background-color: white;
+}
+
+.portada img{
+    width: 100%;
+    max-width: 375px;
+    height: 87px;
+    margin-bottom: 30px;
+}
+
+.cuerpo{
+  margin-top: 50px;
+}
+
+.cuerpo-articulo {
+  margin-top: 30px;
+}
+
+.cuerpo-articulo p{
+    font-family: 'Roboto';
+    font-size: 1.2em;
+    line-height: 1.7em;
+    margin-bottom: 25px;
+    color:black;
+}
+
+.caja{
+  padding:15px 15px 25px 15px;
+  border-left:10px solid #0C2D41;
+  background:#0C2D4125;
+  margin-bottom:15px;
+  line-height:26px;
+  }
+
+.padding{
+  padding: 25px;
+  }
+
+
+/* Estilos de Scrollama */
+
+#scrolly {
+    position: relative;
+    padding: 1rem;
+  }
+
+  .article-steps {
+    position: relative;
+    padding: 0;
+    max-width: 300px;
+    margin: 0 auto;
+    font-family: "Roboto";
+  }
+
+  .sticky-thing {
+    position: -webkit-sticky;
+    position: sticky;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    background-image: url("../../img/pictograma1.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    z-index: 0;
+    top: 10vh;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease;
+  }
+
+  .sticky-thing p {
+    font-size: 8rem;
+    font-weight: 900;
+    color: white;
+  }
+
+  .step {
+    margin: 0 auto 750px auto;
+    color: white;
+    background-color: white;
+  }
+
+  .step:last-child {
+    margin-bottom: 0;
+  }
+
+  .step.is-active p {
+    background-color: goldenrod;
+    color: white;
+  }
+
+  .step p {
+    padding: 1rem;
+    font-size: 1.2rem;
+    background-color: white;
+  }
+
+  img{
+    width: 100%;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+  }
+
+  .btn-outline-primary {
+    background-color: white;
+  }
